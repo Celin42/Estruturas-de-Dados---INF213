@@ -1,7 +1,3 @@
-Eu li as regas.
-
-Marcelo Castro Grossi - 95686
-
     Minha ideia inicial do trabalho foi criar as pecas do tetris, 
 sendo um array dinamico de arrays dinamicos seguindo o padrao da tela do jogo. 
 Entao, na funcao de rotacionar a peca eu literalmente coloco os caracteres da peca 
