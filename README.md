@@ -6,4 +6,5 @@ Trab1: Um software desenvolvido para ler um arquivo CSV com os dados das cotaç�
 do dia do trabalho, onde você pode consultar em qual ação você deve investir, ou seja, calcula qual ação
 é mais benéfica investir de acordo com os dados comparados das cotações de cada ação ao decorrer do tempo.
 
-Trab2:
+Trab2: Este trabalho foi recriar o famoso jogo Tetris, onde foi preciso criar as pecas do tetris, 
+sendo um array dinamico de arrays dinamicos seguindo o padrao da tela do jogo.
